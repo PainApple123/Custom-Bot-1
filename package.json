@@ -1,0 +1,23 @@
+{
+  "name": "lolita-beta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node": "^16.13.1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord-logs": "^2.0.1",
+    "discord.js": "^13.3.1",
+    "glob": "^7.2.0",
+    "mongodb-reaction-role": "^1.1.0",
+    "mongoose": "^6.0.12"
+  }
+}
